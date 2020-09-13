@@ -1,6 +1,6 @@
 {
-  "name": "types-cc-plugin",
-  "version": "1.0.0",
+  "name": "@types/cc-plugin",
+  "version": "1.0.1",
   "description": "cocos creator plugin api",
   "main": "index.js",
   "scripts": {
