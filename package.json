@@ -1,0 +1,19 @@
+{
+  "name": "types-cc-plugin",
+  "version": "1.0.0",
+  "description": "cocos creator plugin api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidys/types-cc-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tidys/types-cc-plugin/issues"
+  },
+  "homepage": "https://github.com/tidys/types-cc-plugin#readme"
+}
